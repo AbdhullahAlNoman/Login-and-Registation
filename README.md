@@ -16,7 +16,7 @@ A clean and responsive Login & Registration page built using HTML, CSS, and Java
 - CSS3
 - JavaScript
 
-![Screenshot](Images/screenshot.png)
+![Screenshot](Images/)
 
 
 🚀 How to Use
